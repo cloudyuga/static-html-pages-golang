@@ -14,7 +14,7 @@ go run main.go
 ```
 The application is deployed on port 8080 locally. Access it via the browser. You will see the following type of output.
 
- ![gostatic_bluepage](./gostatic_bluepage.PNG)
+![gostatic_bluepage](https://github.com/oshi36/static-html-pages-golang/assets/47573417/0c7fe5e2-d407-430c-acd6-217103ad6e13)
 
 ## Create a Docker Image of the Application
 - The `Dockerfile` is present in the repository which will help in building the Docker image of the application
